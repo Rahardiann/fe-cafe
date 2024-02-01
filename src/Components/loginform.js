@@ -44,7 +44,7 @@ export default function LoginForm() {
       <div className="bg-main rounded-lg shadow-2xl p-8 w-full md:w-96">
         <img src={loginImage} alt="Login" className="mb-6 mx-auto max-w-20" />
         <h2 className="text-center mb-8 text-xl font-semibold">
-          Sign In to Your Account
+          Sign In
         </h2>
 
         <form onSubmit={handleLogin}>
