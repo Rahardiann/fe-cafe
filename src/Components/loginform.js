@@ -19,7 +19,7 @@ export default function LoginForm() {
     <div className="bg-main min-h-screen flex items-center justify-center">
       <div className="bg-main rounded-lg shadow-2xl p-8 w-full md:w-96">
         <img src={loginImage} alt="Login" className="mb-6 mx-auto max-w-20" />
-        <h2 className="text-center mb-8 text-md text-gray-600">
+        <h2 className="text-center mb-8 text-md text-gray-300">
           Masuk Ke akun utama anda 
         </h2>
 
